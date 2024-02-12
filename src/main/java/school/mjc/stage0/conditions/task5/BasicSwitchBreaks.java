@@ -11,7 +11,7 @@ public class BasicSwitchBreaks {
             case 20:
                 System.out.println("twenty");
             default:
-                System.out.println("default");
+                System.out.print("");
         }
     }
 }
